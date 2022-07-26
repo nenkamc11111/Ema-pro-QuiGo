@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882886264102",
+    "firebase_url": "https://quigo-c8d6d-default-rtdb.firebaseio.com",
+    "project_id": "quigo-c8d6d",
+    "storage_bucket": "quigo-c8d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882886264102:android:43bd621a4286fdf7b36de7",
+        "android_client_info": {
+          "package_name": "com.home.quigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882886264102-uuce0bkghj30hk7vkjn714ju81b53cka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6vZX1__nVY4_Oc_tHc-LcUA5mFwqypog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882886264102-uuce0bkghj30hk7vkjn714ju81b53cka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
